@@ -19,7 +19,7 @@ body {
 
 .header {
   height: 100vh;
-  background-image: url(../imj/header/header.jpg);
+  background-image: url(../img/header/header.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -116,15 +116,15 @@ body {
 }
 
 .menu-games__item_1 {
-  background-image: url(../imj/games/games_1.jpg);
+  background-image: url(../img/games/games_1.jpg);
 }
 
 .menu-games__item_2 {
-  background-image: url(../imj/games/games_2.jpg);
+  background-image: url(../img/games/games_2.jpg);
 }
 
 .menu-games__item_3 {
-  background-image: url(../imj/games/games_3.jpg);
+  background-image: url(../img/games/games_3.jpg);
 }
 
 @media (max-width: 767px) {
@@ -134,7 +134,7 @@ body {
   }
   .header {
     height: 735px;
-    background-image: url(../imj/mobile/top.jpg);
+    background-image: url(../img/mobile/top.jpg);
     background-position: center;
     background-size: cover;
   }
