@@ -12,8 +12,8 @@
 // Задание 2
 // Создайте переменную и присвойте ей значение года выпуска первого iPhone. Выведите значение переменной на экран.
 
-// const releaseiPhone = 2007
-// alert(releaseiPhone)
+// const releaseOfTheFirstIPhone = 2007
+// alert(releaseOfTheFirstIPhone)
 
 // Задание 3
 // Создайте переменную и присвойте ей значение имени создателя языка JavaScript. Выведите значение переменной на экран.
